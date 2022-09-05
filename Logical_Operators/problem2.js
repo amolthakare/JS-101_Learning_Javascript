@@ -1,0 +1,8 @@
+var char = 'a';
+
+if(char=="a" || char=="e" || char=="i" || char=="o" || char=="u"){
+  console.log("Vovel");
+}
+else{
+  console.log("Consonent");
+}
