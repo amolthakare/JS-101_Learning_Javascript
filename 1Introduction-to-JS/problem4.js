@@ -1,0 +1,37 @@
+var name = "Amol";
+var school = "Dr.Yardy English High School";
+var grade = "A+";
+var section = "A";
+var rollno = "H163443";
+var maths = 93;
+var science = 88;
+var english = 85;
+
+console.log("Name : " + name);
+console.log("School Name : " + school);
+console.log("grade : " + grade);
+console.log("section : " + section);
+console.log("Rollno : " + rollno);
+console.log("");
+console.log("Marks Scored in the Subjects");
+console.log("");
+console.log("maths : " + maths);
+console.log("science : " + science);
+console.log("english : " + english);
+console.log("");
+
+console.log("░░░░░░░░░░░░░░░░░░░░░░█████████");
+console.log("░░███████░░░░░░░░░░███▒▒▒▒▒▒▒▒███");
+console.log("░░█▒▒▒▒▒▒█░░░░░░░███▒▒▒▒▒▒▒▒▒▒▒▒▒███");
+console.log("░░░█▒▒▒▒▒▒█░░░░██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██");
+console.log("░░░░█▒▒▒▒▒█░░░██▒▒▒▒▒██▒▒▒▒▒▒██▒▒▒▒▒███");
+console.log("░░░░░█▒▒▒█░░░█▒▒▒▒▒▒████▒▒▒▒████▒▒▒▒▒▒██");
+console.log("░░░█████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██");
+console.log("░░░█▒▒▒▒▒▒▒▒▒▒▒▒█▒▒▒▒▒▒▒▒▒█▒▒▒▒▒▒▒▒▒▒▒██");
+console.log("░██▒▒▒▒▒▒▒▒▒▒▒▒▒█▒▒▒██▒▒▒▒▒▒▒▒▒▒██▒▒▒▒██");
+console.log("██▒▒▒███████████▒▒▒▒▒██▒▒▒▒▒▒▒▒██▒▒▒▒▒██");
+console.log("█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒█▒▒▒▒▒▒████████▒▒▒▒▒▒▒██");
+console.log("██▒▒▒▒▒▒▒▒▒▒▒▒▒▒█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██");
+console.log("░█▒▒▒███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██");
+console.log("░██▒▒▒▒▒▒▒▒▒▒████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒█");
+console.log("░░████████████░░░█████████████████");
